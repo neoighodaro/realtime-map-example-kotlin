@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Realtime Map Kotlin</string>
+    <string name="google_maps_key">AIzaSyDom006JVsJhKgd35alMdQ6kWZQ8h6l4As</string>
+</resources>
